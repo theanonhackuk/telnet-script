@@ -9,7 +9,7 @@ Working ports:
 -23
 -5038 (Best port)
 -80
-
+-Any open port but this most recommended
 
 
 
