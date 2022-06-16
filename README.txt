@@ -12,13 +12,14 @@ Working ports:
 -Any open port but this most recommended
 
 
+This script have 1023 passwd and its not needed any wordlist but you could add it.
 
+This scipr was created in perl and if it gives error try to search what its left.
 
+The scripts works with 80% of the ip selected
+How to setup?
+You need to have an list with ips and the ports like:
+IP:Port
+Example: 127.0.0.1:5038
 
-
-
-
-
-
-
-
+Created by Anonymous Content
